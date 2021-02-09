@@ -1,6 +1,6 @@
 package search;
 
-public class linearSearch {
+public class LinearSearch {
 	 public static int search(int arr[], int x) 
 	    { 
 	        int n = arr.length; 

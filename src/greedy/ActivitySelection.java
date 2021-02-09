@@ -3,7 +3,7 @@ package greedy;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class activitySelection {
+public class ActivitySelection {
         public static void printMaxActivities(int s[], int f[], int n)
         {        	
         	// start = 0
